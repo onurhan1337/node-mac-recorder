@@ -7,7 +7,7 @@ yarn-error.log*
 # build files
 build/
 build-*/
-build-*/
+build/*
 
 # Test files
 test-*.png
@@ -19,6 +19,7 @@ test-*.mov
 recordings/
 output/
 captures/
+test-output/
 
 # OS generated files
 .DS_Store
